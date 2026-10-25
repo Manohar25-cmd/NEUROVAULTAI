@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="playstore_launch/store-icon-512.png" alt="NeuroVault AI Logo" width="128" height="128" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.4);" />
+
 # 🧠 NeuroVault AI
 
 **Your Intelligent On-Device Companion for Health, Deep Focus & Cognitive Life Optimization**
@@ -14,10 +16,43 @@
 
 <br/>
 
-> **Zero Cloud Telemetry. No Accounts. No Server Subscriptions.**  
-> All biometric metrics, app activity, and personal habits remain encrypted and strictly stored on your physical device.
+<!-- Google Play Store Direct Download Badge -->
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.neurovault.app" title="Download on Google Play Store">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70" alt="Get it on Google Play" />
+  </a>
+</p>
+
+> 📲 **Direct Google Play Store Link:**  
+> [👉 **Click Here to View / Download on Google Play Store**](https://play.google.com/store/apps/details?id=com.neurovault.app) *(Package: `com.neurovault.app`)*
 
 <br/>
+
+> **Zero Cloud Telemetry • No Accounts Required • No Subscriptions**  
+> All biometric metrics, app activity, and personal habits remain encrypted and strictly stored on your physical device.
+
+</div>
+
+---
+
+## 📸 Play Store Visual Showcase (Screenshots)
+
+<div align="center">
+
+| 01. Smart Dashboard & NeuroScore™ | 02. Focus Timer & Zen Mode | 03. Analytics & Sleep Trends |
+| :---: | :---: | :---: |
+| <img src="playstore_launch/top6_screenshots/01_home_dashboard.png" width="240" alt="Smart Dashboard & NeuroScore" /> | <img src="playstore_launch/top6_screenshots/02_focus_timer.png" width="240" alt="Focus Timer & Zen Mode" /> | <img src="playstore_launch/top6_screenshots/03_analytics_stats.png" width="240" alt="Analytics & Trends" /> |
+| *Composite wellness index, live gauges & quests* | *Custom Pomodoro with purple app blocker overlay* | *7/30-day trends, radar chart & Pearson correlations* |
+
+| 04. Milestone Goals & Habits | 05. Priority Task Planner | 06. AI Voice Assistant Coach |
+| :---: | :---: | :---: |
+| <img src="playstore_launch/top6_screenshots/04_goals_milestones.png" width="240" alt="Daily Goals" /> | <img src="playstore_launch/top6_screenshots/05_tasks_planner.png" width="240" alt="Task Planner" /> | <img src="playstore_launch/top6_screenshots/06_ai_agent_coach.png" width="240" alt="AI Agent Coach" /> |
+| *Progress trackers, overdue alerts & celebrations* | *Priority tags, search filter & tap-to-focus* | *Offline speech recognition & intent resolution* |
+
+| 07. 100% Offline Profile & Data Privacy |
+| :---: |
+| <img src="playstore_launch/top6_screenshots/07_profile_privacy.png" width="240" alt="Profile & Privacy" /> |
+| *CSV/PDF export, 9 dynamic themes & zero cloud storage* |
 
 </div>
 
@@ -26,6 +61,7 @@
 ## 📖 Table of Contents
 
 - [✨ Overview](#-overview)
+- [📸 Play Store Visual Showcase](#-play-store-visual-showcase-screenshots)
 - [🌟 Key Pillars \& Feature Matrix](#-key-pillars--feature-matrix)
 - [🏗️ System Architecture](#️-system-architecture)
 - [🔐 Privacy, Security \& Data Safety](#-privacy-security--data-safety)
@@ -212,6 +248,17 @@ NEUROVAULTAI/
 │   │       ├── BootReceiver.java        # Reboot auto-start receiver
 │   │       └── NeuroWidget.java         # Home screen and lock screen widget
 │   └── build.gradle                     # Android Gradle build configuration
+├── playstore_launch/                    # Google Play Store launch graphics & screenshots
+│   ├── store-icon-512.png               # Official 512x512 app icon
+│   ├── feature-graphic-1024x500.png     # Official Play Store banner
+│   └── top6_screenshots/                # 7 High-resolution Play Store showcase screenshots
+│       ├── 01_home_dashboard.png
+│       ├── 02_focus_timer.png
+│       ├── 03_analytics_stats.png
+│       ├── 04_goals_milestones.png
+│       ├── 05_tasks_planner.png
+│       ├── 06_ai_agent_coach.png
+│       └── 07_profile_privacy.png
 ├── public/                              # Static public assets & icons
 ├── src/                                 # React 19 application source
 │   ├── assets/                          # App logos & branding graphics
@@ -366,10 +413,10 @@ To protect developer keys and sensitive information when pushing updates to GitH
 git status
 
 # 2. Stage verified code changes
-git add README.md .gitignore
+git add README.md .gitignore playstore_launch/top6_screenshots/ playstore_launch/store-icon-512.png
 
 # 3. Commit with a clear semantic message
-git commit -m "docs: publish comprehensive A-to-Z production README"
+git commit -m "docs: add Play Store icon, 7 screenshots showcase, and direct download badge to README"
 
 # 4. Safely push to your repository
 git push origin <your-branch-name>
@@ -381,6 +428,7 @@ git push origin <your-branch-name>
 
 - **Developer & Creator:** **Manohar** ([@Manohar630](https://github.com/Manohar630))
 - **Email Contact:** [smanohar33733@gmail.com](mailto:smanohar33733@gmail.com)
+- **Google Play Package:** [`com.neurovault.app`](https://play.google.com/store/apps/details?id=com.neurovault.app)
 - **Design Inspiration:** *Project K — Cognitive Wellness Engineering*
 
 ---
