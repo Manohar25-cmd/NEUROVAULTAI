@@ -1,8 +1,8 @@
-<div align="center">
-
-<img src="playstore_launch/store-icon-512.png" alt="NeuroVault AI Logo" width="128" height="128" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.4);" />
-
 # 🧠 NeuroVault AI
+
+![NeuroVault AI Banner](./playstore_launch/feature-graphic-1024x500.png)
+
+<div align="center">
 
 **Your Intelligent On-Device Companion for Health, Deep Focus & Cognitive Life Optimization**
 
@@ -37,24 +37,15 @@
 
 ## 📸 Play Store Visual Showcase (Screenshots)
 
-<div align="center">
+| 01. Smart Dashboard & NeuroScore™ | 02. Focus Timer & Zen Mode | 03. Analytics & Sleep Trends | 04. Milestone Goals & Habits |
+| :---: | :---: | :---: | :---: |
+| ![Smart Dashboard & NeuroScore](./playstore_launch/top6_screenshots/01_home_dashboard.png) | ![Focus Timer & Zen Mode](./playstore_launch/top6_screenshots/02_focus_timer.png) | ![Analytics & Trends](./playstore_launch/top6_screenshots/03_analytics_stats.png) | ![Milestone Goals](./playstore_launch/top6_screenshots/04_goals_milestones.png) |
+| *Composite wellness index & quests* | *Pomodoro with Zen app blocker* | *7/30-day trends & correlations* | *Progress trackers & celebrations* |
 
-| 01. Smart Dashboard & NeuroScore™ | 02. Focus Timer & Zen Mode | 03. Analytics & Sleep Trends |
+| 05. Priority Task Planner | 06. AI Voice Assistant Coach | 07. 100% Offline Profile & Data Privacy |
 | :---: | :---: | :---: |
-| <img src="playstore_launch/top6_screenshots/01_home_dashboard.png" width="240" alt="Smart Dashboard & NeuroScore" /> | <img src="playstore_launch/top6_screenshots/02_focus_timer.png" width="240" alt="Focus Timer & Zen Mode" /> | <img src="playstore_launch/top6_screenshots/03_analytics_stats.png" width="240" alt="Analytics & Trends" /> |
-| *Composite wellness index, live gauges & quests* | *Custom Pomodoro with purple app blocker overlay* | *7/30-day trends, radar chart & Pearson correlations* |
-
-| 04. Milestone Goals & Habits | 05. Priority Task Planner | 06. AI Voice Assistant Coach |
-| :---: | :---: | :---: |
-| <img src="playstore_launch/top6_screenshots/04_goals_milestones.png" width="240" alt="Daily Goals" /> | <img src="playstore_launch/top6_screenshots/05_tasks_planner.png" width="240" alt="Task Planner" /> | <img src="playstore_launch/top6_screenshots/06_ai_agent_coach.png" width="240" alt="AI Agent Coach" /> |
-| *Progress trackers, overdue alerts & celebrations* | *Priority tags, search filter & tap-to-focus* | *Offline speech recognition & intent resolution* |
-
-| 07. 100% Offline Profile & Data Privacy |
-| :---: |
-| <img src="playstore_launch/top6_screenshots/07_profile_privacy.png" width="240" alt="Profile & Privacy" /> |
-| *CSV/PDF export, 9 dynamic themes & zero cloud storage* |
-
-</div>
+| ![Priority Task Planner](./playstore_launch/top6_screenshots/05_tasks_planner.png) | ![AI Voice Assistant Coach](./playstore_launch/top6_screenshots/06_ai_agent_coach.png) | ![100% Offline Profile](./playstore_launch/top6_screenshots/07_profile_privacy.png) |
+| *Priority tags & tap-to-focus* | *Offline speech & intent parsing* | *CSV/PDF export & 9 dynamic themes* |
 
 ---
 
