@@ -1,8 +1,10 @@
 # 🧠 NeuroVault AI
 
-![NeuroVault AI Banner](./playstore_launch/feature-graphic-1024x500.png)
+![NeuroVault AI Banner](https://files.catbox.moe/h89e9q.png)
 
 <div align="center">
+
+<img src="https://files.catbox.moe/bg7fcm.png" alt="NeuroVault AI Logo" width="128" height="128" style="border-radius: 28px; box-shadow: 0 10px 30px rgba(124, 58, 237, 0.4);" />
 
 **Your Intelligent On-Device Companion for Health, Deep Focus & Cognitive Life Optimization**
 
@@ -39,12 +41,12 @@
 
 | 01. Smart Dashboard & NeuroScore™ | 02. Focus Timer & Zen Mode | 03. Analytics & Sleep Trends | 04. Milestone Goals & Habits |
 | :---: | :---: | :---: | :---: |
-| ![Smart Dashboard & NeuroScore](./playstore_launch/top6_screenshots/01_home_dashboard.png) | ![Focus Timer & Zen Mode](./playstore_launch/top6_screenshots/02_focus_timer.png) | ![Analytics & Trends](./playstore_launch/top6_screenshots/03_analytics_stats.png) | ![Milestone Goals](./playstore_launch/top6_screenshots/04_goals_milestones.png) |
+| ![Smart Dashboard & NeuroScore](https://files.catbox.moe/en9f0g.png) | ![Focus Timer & Zen Mode](https://files.catbox.moe/bz2jbo.png) | ![Analytics & Trends](https://files.catbox.moe/788ac3.png) | ![Milestone Goals](https://files.catbox.moe/g1if5s.png) |
 | *Composite wellness index & quests* | *Pomodoro with Zen app blocker* | *7/30-day trends & correlations* | *Progress trackers & celebrations* |
 
 | 05. Priority Task Planner | 06. AI Voice Assistant Coach | 07. 100% Offline Profile & Data Privacy |
 | :---: | :---: | :---: |
-| ![Priority Task Planner](./playstore_launch/top6_screenshots/05_tasks_planner.png) | ![AI Voice Assistant Coach](./playstore_launch/top6_screenshots/06_ai_agent_coach.png) | ![100% Offline Profile](./playstore_launch/top6_screenshots/07_profile_privacy.png) |
+| ![Priority Task Planner](https://files.catbox.moe/0sgst3.png) | ![AI Voice Assistant Coach](https://files.catbox.moe/qybrjc.png) | ![100% Offline Profile](https://files.catbox.moe/fm9gdx.png) |
 | *Priority tags & tap-to-focus* | *Offline speech & intent parsing* | *CSV/PDF export & 9 dynamic themes* |
 
 ---
